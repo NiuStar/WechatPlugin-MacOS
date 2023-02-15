@@ -7,3 +7,6 @@ v2.0.0(2023-02-15):
 
 ChatGPTKey
 通过 https://beta.openai.com/account/api-keys 该链接获取
+
+
+下载解压后，命令行执行Install.sh，需在设置-》安全性与隐私同意打开insert_dylib
